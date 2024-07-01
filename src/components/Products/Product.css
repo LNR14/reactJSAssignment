@@ -1,0 +1,28 @@
+
+.card{
+    height:25rem;
+    background-color: #e7f1ff;
+    margin-bottom:1rem ;
+    margin-top: 1rem;
+}
+
+.subtitle{
+    font-size: x-small;
+    font-weight: 100;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 2.4em; /* Adjust based on line height */
+}
+
+.displayImage{
+    background-color: #f8f8f8 ;
+}
+
+.price{
+    font-size: medium;
+    font-weight: bold;
+    padding-top: 1rem;
+}
